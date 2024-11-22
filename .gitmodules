@@ -1,0 +1,3 @@
+[submodule "git-module-dotnet-core"]
+	path = git-module-dotnet-core
+	url = https://github.com/devwz/git-module-dotnet-core.git
